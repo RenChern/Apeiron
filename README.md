@@ -2,7 +2,7 @@
 # Apeiron Masternode Setup Guide (Ubuntu 16.04)
 This guide will assist you in setting up a Apeiron Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
 
-If you require further assistance contact the support team @ [Discord](https://discord.gg/cC9ewdg)
+If you require further assistance contact the support team @ [Discord](https://discordapp.com/invite/aH68QZZ)
 ***
 ## Requirements
 1) **1,000 Apeiron coins.**
